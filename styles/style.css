@@ -410,4 +410,5 @@
   .footer__title {
     font-size: clamp(7.25rem, 5.769rem + 6.317vw, 9.813rem);
   }
+
 }
