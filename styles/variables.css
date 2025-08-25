@@ -4,18 +4,22 @@
   --fw-bold: 700;
   --line-height: 23.4px;
   --font-size: 18px;
-  --bg-image: url('../images/cover-image-dark.png');
-  --bg-color: #000028;
-  --accent-color: #FF0070;
-  --title-color: #DB00FF;
-  --decor-color: #FF0070;
-  --text-color: #F1B2CE;
-  --text-accent-color: #000028;
-  --btn-hover-color: rgba(255, 0, 112, 0.4);
+  --bg-image: url('../images/cover-image-light.png');
+  --bg-color: #FFF1F7;
+  --accent-color: #FF8DCB;
+  --title-color: #FFC2E6;
+  --decor-color: #353430;
+  --text-color: #353430;
+  --text-accent-color: #353430;
+  --btn-hover-color: rgba(50, 49, 45, 0.4);
 
   --padding-mobile: 10px;
   --padding-desktop: 20px;
 
   --decor-size: 25px;
   --record-dot-size: 9px;
+}
+
+.header__record {
+  display: none;
 }
