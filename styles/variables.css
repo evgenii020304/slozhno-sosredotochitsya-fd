@@ -8,9 +8,9 @@
   --bg-color: #000028;
   --accent-color: #FF0070;
   --title-color: #DB00FF;
-  --decor-color: #FF0070;
   --text-color: #F1B2CE;
   --text-accent-color: #000028;
+  --decor-color: #FF0070;
   --btn-hover-color: rgba(255, 0, 112, 0.4);
 
   --padding-mobile: 10px;
@@ -18,4 +18,6 @@
 
   --decor-size: 25px;
   --record-dot-size: 9px;
+
+  --rec-display: block;
 }
