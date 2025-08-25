@@ -137,7 +137,7 @@
 }
 
 .content {
-  padding: 40px var(--padding-mobile);
+  padding: 41px var(--padding-mobile);
 }
 
 .section {
@@ -154,6 +154,10 @@
   font-weight: var(--fw-bold);
   line-height: var(--line-height);
   margin-block-end: 20px;
+}
+
+.section__title:last-of-type {
+  margin-block-end: 19px;
 }
 
 .section__content {
