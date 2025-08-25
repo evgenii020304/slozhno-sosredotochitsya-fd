@@ -398,8 +398,9 @@
 
   .section__content-concentration {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-    grid-column: 1 / 4;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    grid-column: 1 / -1;
   }
 
   .section__content-recommendations {
